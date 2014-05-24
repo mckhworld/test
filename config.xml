@@ -1,1 +1,12 @@
-< access origin="https://script.google.com/macros/s/AKfycbwzk3auVv7ICRNPcCD4Px7oiZKOnxEARXUkplTTq76eWyvuqtbK/exec" subdomains="true" browserOnly="false" /> 
+    <widget id="com.mccreations." version="1.0.0">
+        <name>Balance Sheet UI</name>
+        <description>
+            HSBC Batchmates Balance Sheet UI
+        </description>
+        <author email="mckh@mckh.com" href="https://script.google.com/macros/s/AKfycbwzk3auVv7ICRNPcCD4Px7oiZKOnxEARXUkplTTq76eWyvuqtbK/exec">
+            Michael Cheung @ MC Creations
+        </author>
+        <content src="index.html" />
+        <access origin="https://script.google.com/macros/s/AKfycbwzk3auVv7ICRNPcCD4Px7oiZKOnxEARXUkplTTq76eWyvuqtbK/exec" subdomains="true" browserOnly="false" /> 
+        <preference name="Fullscreen" value="true" />
+    </widget>
